@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mohan/static/css/main.95982a6a.css",
+    "main.js": "/mohan/static/js/main.53a0bdbd.js",
+    "static/js/453.c597153d.chunk.js": "/mohan/static/js/453.c597153d.chunk.js",
+    "static/media/kushi.mp3": "/mohan/static/media/kushi.86e62c44e26045556df9.mp3",
+    "index.html": "/mohan/index.html",
+    "main.95982a6a.css.map": "/mohan/static/css/main.95982a6a.css.map",
+    "main.53a0bdbd.js.map": "/mohan/static/js/main.53a0bdbd.js.map",
+    "453.c597153d.chunk.js.map": "/mohan/static/js/453.c597153d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95982a6a.css",
+    "static/js/main.53a0bdbd.js"
+  ]
+}
